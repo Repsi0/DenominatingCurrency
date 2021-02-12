@@ -1,0 +1,4 @@
+com/repsi0/denominatingcurrency/mixin/ExampleMixin.java
+ com.repsi0.denominatingcurrency.mixin.ExampleMixin
+com/repsi0/denominatingcurrency/DenominatingCurrency.java
+ com.repsi0.denominatingcurrency.DenominatingCurrency
