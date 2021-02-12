@@ -1,0 +1,13 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients": [
+		{"item":"denominatingcurrency:one_dollar"},
+		{"item":"denominatingcurrency:one_dollar"},
+		{"item":"denominatingcurrency:one_dollar"},
+		{"item":"denominatingcurrency:one_dollar"},
+		{"item":"denominatingcurrency:one_dollar"}
+	],
+	"result": {
+		"item":"denominatingcurrency:five_dollar"
+	}
+}
