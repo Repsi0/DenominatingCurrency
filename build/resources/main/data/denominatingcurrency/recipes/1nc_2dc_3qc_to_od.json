@@ -1,0 +1,14 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients": [
+		{"item":"denominatingcurrency:nickel_cent"},
+		{"item":"denominatingcurrency:dime_cent"},
+		{"item":"denominatingcurrency:dime_cent"},
+		{"item":"denominatingcurrency:quarter_cent"},
+		{"item":"denominatingcurrency:quarter_cent"},
+		{"item":"denominatingcurrency:quarter_cent"}
+	],
+	"result": {
+		"item":"denominatingcurrency:one_dollar"
+	}
+}
