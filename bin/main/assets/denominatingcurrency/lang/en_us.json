@@ -1,0 +1,14 @@
+{
+	"item.denominatingcurrency.penny_cent": "1c",
+	"item.denominatingcurrency.nickel_cent": "5c",
+	"item.denominatingcurrency.dime_cent": "10c",
+	"item.denominatingcurrency.quarter_cent": "25c",
+	"item.denominatingcurrency.half_cent": "50c",
+	"item.denominatingcurrency.one_dollar": "$1",
+	"item.denominatingcurrency.five_dollar": "$5",
+	"item.denominatingcurrency.ten_dollar": "$10",
+	"item.denominatingcurrency.twenty_five_dollar": "$25",
+	"item.denominatingcurrency.hundred_superdollar": "$100",
+	"item.denominatingcurrency.five_hundred_superdollar": "$500",
+	"item.denominatingcurrency.thousand_megadollar": "$1000",
+}

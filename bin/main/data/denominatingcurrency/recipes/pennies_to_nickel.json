@@ -1,0 +1,13 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients": [
+		{"item":"denominatingcurrency:penny_cent"},
+		{"item":"denominatingcurrency:penny_cent"},
+		{"item":"denominatingcurrency:penny_cent"},
+		{"item":"denominatingcurrency:penny_cent"},
+		{"item":"denominatingcurrency:penny_cent"}
+	],
+	"result": {
+		"item":"denominatingcurrency:nickel_cent"
+	}
+}
